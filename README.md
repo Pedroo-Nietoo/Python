@@ -1,4 +1,4 @@
-<h1 align="center"> Java </h1>
+<h1 align="center"> Python </h1>
 <h3> O que é Python? 🧬 </h3>
 <p> Python é uma linguagem programação de alto nível, Open-Source e de propósito geral, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. É muito utilizada em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. </p>
 
