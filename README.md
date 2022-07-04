@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/badge/Feito%20com-HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=e34c26"/>
 <img src="https://img.shields.io/badge/Feito%20com-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Feito%20com-JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=f0db4f"/>
-<img src="https://img.shields.io/badge/Feito%20com-Java-ffce00?style=for-the-badge&logo=Java&logoColor=ffce00"/>
-
 
 <div align="center">  
 <a href="https://www.python.org/">
