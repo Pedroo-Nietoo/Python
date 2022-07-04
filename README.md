@@ -1,5 +1,7 @@
 <h1 align="center"> Python </h1>
 
+<img align="right" alt="Feito com Python" src="https://img.shields.io/badge/Feito%20com-Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"/>
+
 <h3> O que é Python? 🧬 </h3> 
 <p> Python é uma linguagem programação de alto nível, Open-Source e de propósito geral, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. É muito utilizada em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. </p>
 
@@ -8,7 +10,6 @@
 
 >🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
 
-<img src="https://img.shields.io/badge/Feito%20com-Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Feito%20com-HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=e34c26"/>
 <img src="https://img.shields.io/badge/Feito%20com-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Feito%20com-JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=f0db4f"/>
