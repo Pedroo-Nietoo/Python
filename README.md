@@ -10,6 +10,8 @@
 
 >🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
 
+<br>
+
 <div align="center">  
 <a href="https://www.python.org/">
 <img alt="Python logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png"/></a>
